@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,region,product_category,product_name,quantity,unit_price,total_amount
+3001,CUST2001,2025-01-01,North,Software,Project Management Pro,2,-25.99,51.98
+3002,CUST2002,2025-01-02,South,Cloud Services,Object Storage,1,14.99,14.99
+3003,CUST2003,2025-01-03,East,Analytics,BI Dashboard License,3,-29.50,88.50
+3004,CUST2004,2025-01-04,West,Security,Endpoint Protection,1,119.99,119.99
+3005,CUST2005,2025-01-05,North,Cloud Services,Managed Database,2,35.75,71.50
+3006,CUST2006,2025-01-06,South,Analytics,Data Warehouse License,1,-22.99,22.99
+3007,CUST2007,2025-01-07,East,Security,Identity Manager,4,18.50,74.00
+3008,CUST2008,2025-01-08,West,Cloud Services,Virtual Machine,5,9.99,49.95
+3009,CUST2009,2025-01-09,North,Developer Tools,Git Enterprise,1,149.99,149.99
+3010,CUST2010,2025-01-10,South,Analytics,Data Catalog,2,29.99,59.98
+3011,CUST2011,2025-01-11,East,Security,Vulnerability Scanner,2,39.99,79.98
+3012,CUST2012,2025-01-12,West,Cloud Services,Kubernetes Cluster,2,89.99,179.98
+3013,CUST2013,2025-01-13,North,Software,CRM Platform,2,79.99,159.98
+3014,CUST2014,2025-01-14,South,Developer Tools,CI/CD Pipeline,3,12.99,38.97
+3015,CUST2015,2025-01-15,East,Analytics,Reporting Engine,1,79.99,79.99
+3016,CUST2016,2025-01-16,West,Cloud Services,Managed Spark Cluster,2,45.00,90.00
+3017,CUST2017,2025-01-17,North,Software,ERP Essentials,3,55.00,165.00
+3018,CUST2018,2025-01-18,South,Developer Tools,Artifact Repository,2,18.99,37.98
+3019,CUST2019,2025-01-19,East,Cloud Services,Container Registry,4,12.50,50.00
+3020,CUST2020,2025-01-20,West,Analytics,Self-Service Reporting,2,15.99,31.98
+3021,CUST2021,2025-01-21,North,Security,Secrets Vault,2,66.00,132.00
+3022,CUST2022,2025-01-22,South,Software,Knowledge Base,1,40.00,40.00
+3023,CUST2023,2025-01-23,East,Developer Tools,Package Registry,2,15.00,30.00
+3024,CUST2024,2025-01-24,West,Analytics,Semantic Layer,3,45.00,135.00
+3025,CUST2025,2025-01-25,North,Security,Certificate Manager,1,120.00,120.00
+3026,CUST2026,2025-01-26,South,Cloud Services,Data Lake Storage,2,80.00,160.00
+3027,CUST2027,2025-01-27,East,Software,Workflow Automation,4,32.00,128.00
+3028,CUST2028,2025-01-28,West,Analytics,Customer Insights Platform,1,99.00,99.00
+3029,CUST2029,2025-01-29,North,Developer Tools,Source Repository,3,19.99,59.97
+3030,CUST2030,2025-01-30,South,Cloud Services,Managed Kafka,2,85.00,170.00
+3031,CUST2031,2025-01-31,East,Security,Access Governance,1,75.00,75.00
+3032,CUST2032,2025-02-01,West,Analytics,Executive Dashboard,2,52.00,104.00
+3033,CUST2033,2025-02-02,North,Software,Document Management,4,28.00,112.00
+3034,CUST2034,2025-02-03,South,Cloud Services,Object Archive,3,21.00,63.00
+3035,CUST2035,2025-02-04,East,Developer Tools,Build Agent License,2,44.00,88.00
+3036,,2025-02-05,North,Software,CRM Platform,2,50.00,100.00
+3037,,2025-02-06,South,Analytics,Semantic Layer,1,20.00,20.00
+3038,CUST2038,2025-15-02,East,Cloud Services,Object Storage,1,30.00,30.00
+3039,CUST2039,not-a-date,West,Software,Workflow Automation,2,40.00,80.00
+3040,CUST2040,2025-02-08,,Security,Endpoint Protection,1,99.00,99.00
+3041,CUST2041,2025-02-09,,Analytics,Reporting Engine,2,30.00,60.00
+3042,CUST2042,2025-02-10,North,Software,,1,50.00,50.00
+3043,CUST2043,2025-02-11,South,Cloud Services,,2,45.00,90.00
+3044,CUST2044,2025-02-12,East,Analytics,Data Catalog,,35.00,70.00
+3045,CUST2045,2025-02-13,West,Security,Threat Detection,,80.00,160.00
+3046,CUST2046,2025-02-14,North,Developer Tools,Artifact Repository,-1,20.00,20.00
+3047,CUST2047,2025-02-15,South,Analytics,Executive Dashboard,0,30.00,0.00
+3048,CUST2048,2025-02-16,East,Software,ERP Essentials,2,N/A,110.00
+3049,CUST2049,2025-02-17,West,Cloud Services,Data Lake Storage,1,N/A,80.00
+not_a_number,CUST2050,2025-02-18,North,Security,SIEM Platform,1,90.00,90.00
